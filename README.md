@@ -1,4 +1,4 @@
 # Simple-Texteditor-JavaFX
-Counts words, counts characters, trims, saves and opens files (.txt). 
+Counts words, counts characters, trims, saves and opens files (limited: .txt). 
 
-Issues: If you remove the text, the Wordscounter get 1. It only accept new words, when you type in a space. (Sure, wenn you want to write a new words, you always press space).
+Issues: If you remove the text, the Wordscounter get 1. Counts new words when you hit space.
